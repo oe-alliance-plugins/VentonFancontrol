@@ -1,0 +1,18 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "Fancontrol Settings inStandby Mode",
+  "description_recipe": "Fancontrol Settings inStandby Mode",
+  "history_source_dir": "VentonFancontrol",
+  "internal_package_name": "enigma2-plugin-systemplugins-fancontrol",
+  "module_dir_name": "VentonFancontrol",
+  "output_subdir": "VentonFancontrol",
+  "package_name": "enigma2-plugin-systemplugins-fancontrol-venton-fancontrol",
+  "plugin_src_rel": "VentonFancontrol",
+  "python_package": "VentonFancontrol",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "VentonFancontrol",
+  "rrecommends": "",
+  "rreplaces": ""
+}
