@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<setupxml>
+	<setup key="fansetup" title="Fan setup">
+		<item level="0" text="Fan mode" description="Select fan operation mode">config.plugins.FanSetup.mode</item>
+	</setup>
+</setupxml>
