@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: VuDuoFanControl - oe-alliance\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2017-07-06 08:23+0300\n"
 "Last-Translator: Vytenis P. <vyteniui@gmail.com>\n"
 "Language-Team: Vytenis P.\n"
@@ -15,32 +15,38 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Poedit-SearchPath-0: ..\n"
 
+#: ../plugin.py:10
 msgid "Auto"
 msgstr "Auto"
 
-msgid "Cancel"
-msgstr "Atšaukti"
-
+#: ../plugin.py:69
 msgid "FAN Control"
 msgstr "Aušintuvo valdymas"
 
+#: ../plugin.py:76
 msgid "Fan Control"
 msgstr "Aušintuvo valdymas"
 
+#: ../setup.xml
 msgid "Fan mode"
 msgstr "Aušintuvo režimas"
 
+#: ../setup.xml
 msgid "Fan setup"
 msgstr "Aušintuvo sąranka"
 
+#: ../plugin.py:10
 msgid "Off"
 msgstr "Išj."
 
+#: ../plugin.py:10
 msgid "On"
 msgstr "Įj."
 
-msgid "Save"
-msgstr "Išsaugoti"
+#: ../setup.xml
+msgid "Select fan operation mode"
+msgstr ""
 
+#: ../plugin.py:76
 msgid "switch Fan On/Off"
 msgstr "įjungti/išjungti aušintuvą"

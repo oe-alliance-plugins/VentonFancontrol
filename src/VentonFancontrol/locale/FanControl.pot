@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the FanControl package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: FanControl\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-03 14:49+0100\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,32 +17,38 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#: ../plugin.py:10
 msgid "Auto"
 msgstr ""
 
-msgid "Cancel"
-msgstr ""
-
+#: ../plugin.py:69
 msgid "FAN Control"
 msgstr ""
 
+#: ../plugin.py:76
 msgid "Fan Control"
 msgstr ""
 
+#: ../setup.xml
 msgid "Fan mode"
 msgstr ""
 
+#: ../setup.xml
 msgid "Fan setup"
 msgstr ""
 
+#: ../plugin.py:10
 msgid "Off"
 msgstr ""
 
+#: ../plugin.py:10
 msgid "On"
 msgstr ""
 
-msgid "Save"
+#: ../setup.xml
+msgid "Select fan operation mode"
 msgstr ""
 
+#: ../plugin.py:76
 msgid "switch Fan On/Off"
 msgstr ""

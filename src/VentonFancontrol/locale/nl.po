@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ViX\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2018-07-31 10:41+0200\n"
 "Last-Translator: Rob van der Does <RobvanderDoes@Gmail.com>\n"
 "Language-Team: Andy Blackburn, Rob van der Does\n"
@@ -18,32 +18,38 @@ msgstr ""
 "X-Generator: Poedit 2.1.1\n"
 "X-Poedit-SearchPath-0: ..\n"
 
+#: ../plugin.py:10
 msgid "Auto"
 msgstr "Auto"
 
-msgid "Cancel"
-msgstr "Annuleer"
-
+#: ../plugin.py:69
 msgid "FAN Control"
 msgstr "Ventilatorinstellingen"
 
+#: ../plugin.py:76
 msgid "Fan Control"
 msgstr "Ventilatorinstellingen"
 
+#: ../setup.xml
 msgid "Fan mode"
 msgstr "Ventilatormode"
 
+#: ../setup.xml
 msgid "Fan setup"
 msgstr "Ventilatorinstellingen"
 
+#: ../plugin.py:10
 msgid "Off"
 msgstr "Uit"
 
+#: ../plugin.py:10
 msgid "On"
 msgstr "Aan"
 
-msgid "Save"
-msgstr "Sla op"
+#: ../setup.xml
+msgid "Select fan operation mode"
+msgstr ""
 
+#: ../plugin.py:76
 msgid "switch Fan On/Off"
 msgstr "schakel ventilator aan/uit"

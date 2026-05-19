@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-30 19:14+0200\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2022-11-05 07:47+0100\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <>\n"
@@ -17,33 +17,38 @@ msgstr ""
 "X-Generator: Lokalize 22.08.2\n"
 "X-Poedit-SourceCharset: iso-8859-1\n"
 
+#: ../plugin.py:10
 msgid "Auto"
 msgstr "Auto"
 
-msgid "Cancel"
-msgstr "Annulla"
-
+#: ../plugin.py:69
 msgid "FAN Control"
 msgstr "Controllo ventola"
 
+#: ../plugin.py:76
 msgid "Fan Control"
 msgstr "Controllo ventola"
 
+#: ../setup.xml
 msgid "Fan mode"
 msgstr "Modalità ventola"
 
+#: ../setup.xml
 msgid "Fan setup"
 msgstr "Configurazione ventola"
 
+#: ../plugin.py:10
 msgid "Off"
 msgstr "Off"
 
+#: ../plugin.py:10
 msgid "On"
 msgstr "On"
 
-#
-msgid "Save"
-msgstr "Salvare"
+#: ../setup.xml
+msgid "Select fan operation mode"
+msgstr ""
 
+#: ../plugin.py:76
 msgid "switch Fan On/Off"
 msgstr "accendi/spegni la ventola"
